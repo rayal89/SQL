@@ -1,4 +1,4 @@
--- Si valuta quali sono le 5 skill più richieste in base al numero di lavori
+-- Si valuta quali sono le 5 skills più richieste in base al numero di lavori
 
 SELECT
     COUNT(skills_job_dim.job_id) AS conteggio,
