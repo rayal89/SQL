@@ -1,4 +1,4 @@
---qualii sono le skills piu richieste per i lavori piu pagati
+-- L'obbiettivo con questa parte era individuare quali erano i lavori piu pagati e quale skills richiedevano
 
 
 WITH top_lavori AS(
