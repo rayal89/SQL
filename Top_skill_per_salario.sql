@@ -1,3 +1,5 @@
+-- Si valuta le skill piu richieste in base ai lavori più pagati considerando un numero di lavori postati per quella skill non inferiore a 100
+
 WITH prova as(
     SELECT
         COUNT(skills_job_dim.job_id) AS conteggio,
